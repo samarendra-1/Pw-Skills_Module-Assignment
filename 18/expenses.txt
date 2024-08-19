@@ -1,0 +1,6 @@
+expense.txt
+
+
+Rent: 1200.00
+Groceries: 250.50
+Dining out: 75.00

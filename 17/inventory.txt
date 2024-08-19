@@ -1,0 +1,11 @@
+inventory.txt
+
+1. Essentials of Inventory Management
+
+2. Achieving Effective Inventory Management 
+
+3. Inventory Management Explained 
+
+4. Warehouse Management: A Complete Guide to Improving Efficiency and Minimizing Costs in the Modern Warehouse
+
+5. Supply Chain Network Design: Applying Optimization and Analytics to the Global Supply Chain
